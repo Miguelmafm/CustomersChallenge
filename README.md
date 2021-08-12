@@ -75,6 +75,7 @@ Request body:
 }
 ```
 <br />
+
 **Login User** -> POST "http://localhost:8080/api/auth/login" (use the generated JWT to invoke DELETE)<br />
 ```java
 
